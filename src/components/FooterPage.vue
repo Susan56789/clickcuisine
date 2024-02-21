@@ -19,34 +19,42 @@
                 </div>
 
                 <div>
-                    <p class="font-semibold text-gray-800 dark:text-white">Quick Link</p>
+
 
                     <div class="flex flex-col items-start mt-5 space-y-2">
-                        <p
-                            class="text-gray-600 transition-colors duration-300 dark:text-gray-300 dark:hover:text-orange-400 hover:underline hover:cursor-pointer hover:text-orange-500">
-                            Home</p>
-                        <p
-                            class="text-gray-600 transition-colors duration-300 dark:text-gray-300 dark:hover:text-orange-400 hover:underline hover:cursor-pointer hover:text-orange-500">
-                            Who We Are</p>
-                        <p
-                            class="text-gray-600 transition-colors duration-300 dark:text-gray-300 dark:hover:text-orange-400 hover:underline hover:cursor-pointer hover:text-orange-500">
-                            Our Philosophy</p>
+                        <p class="font-semibold text-gray-800 dark:text-white">Quick Link</p>
+                        <a href="/" class="text-gray-600 transition-colors duration-300 dark:text-gray-300
+                             dark:hover:text-orange-400 hover:underline hover:cursor-pointer hover:text-orange-500">
+                            Home
+                        </a>
+                        <a href="#"
+                            class="text-gray-600 transition-colors duration-300
+                             dark:text-gray-300 dark:hover:text-orange-400 hover:underline hover:cursor-pointer hover:text-orange-500">
+                            Who We Are</a>
+                        <a href="#" class="text-gray-600 transition-colors duration-300 
+                            dark:text-gray-300 dark:hover:text-orange-400 hover:underline 
+                            hover:cursor-pointer hover:text-orange-500">
+                            Contact Us</a>
                     </div>
                 </div>
 
                 <div>
-                    <p class="font-semibold text-gray-800 dark:text-white">Industries</p>
 
                     <div class="flex flex-col items-start mt-5 space-y-2">
-                        <p
-                            class="text-gray-600 transition-colors duration-300 dark:text-gray-300 dark:hover:text-orange-400 hover:underline hover:cursor-pointer hover:text-orange-500">
-                            Retail & E-Commerce</p>
-                        <p
-                            class="text-gray-600 transition-colors duration-300 dark:text-gray-300 dark:hover:text-orange-400 hover:underline hover:cursor-pointer hover:text-orange-500">
-                            Information Technology</p>
-                        <p
-                            class="text-gray-600 transition-colors duration-300 dark:text-gray-300 dark:hover:text-orange-400 hover:underline hover:cursor-pointer hover:text-orange-500">
-                            Finance & Insurance</p>
+                        <p class="font-semibold text-gray-800 dark:text-white">Categories</p>
+                        <p class="text-gray-600 transition-colors duration-300
+                             dark:text-gray-300 dark:hover:text-orange-400 hover:underline 
+                             hover:cursor-pointer hover:text-orange-500">
+                            Cocktails</p>
+                        <p class="text-gray-600 transition-colors duration-300 
+                            dark:text-gray-300 dark:hover:text-orange-400 hover:underline 
+                            hover:cursor-pointer hover:text-orange-500">
+                            Food</p>
+                        <p class="text-gray-600 transition-colors duration-300 
+                            dark:text-gray-300 dark:hover:text-orange-400 hover:underline
+                             hover:cursor-pointer hover:text-orange-500">
+                            Snacks
+                        </p>
                     </div>
                 </div>
             </div>
@@ -55,9 +63,9 @@
 
             <div class="sm:flex sm:items-center sm:justify-between">
                 <div class="flex flex-1 gap-4 hover:cursor-pointer">
-                    <img src="https://www.svgrepo.com/show/303139/google-play-badge-logo.svg" width="130" height="110"
+                    <img src="https://www.svgrepo.com/show/303139/google-play-badge-logo.svg" width="90" height="110"
                         alt="" />
-                    <img src="https://www.svgrepo.com/show/303128/download-on-the-app-store-apple-logo.svg" width="130"
+                    <img src="https://www.svgrepo.com/show/303128/download-on-the-app-store-apple-logo.svg" width="90"
                         height="110" alt="" />
                 </div>
 
@@ -66,10 +74,8 @@
                     <img src="https://www.svgrepo.com/show/303115/twitter-3-logo.svg" width="30" height="30" alt="tw" />
                     <img src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" width="30" height="30"
                         alt="inst" />
-                    <img src="https://www.svgrepo.com/show/94698/github.svg" class="" width="30" height="30" alt="gt" />
-                    <img src="https://www.svgrepo.com/show/22037/path.svg" width="30" height="30" alt="pn" />
                     <img src="https://www.svgrepo.com/show/28145/linkedin.svg" width="30" height="30" alt="in" />
-                    <img src="https://www.svgrepo.com/show/22048/dribbble.svg" class="" width="30" height="30" alt="db" />
+
                 </div>
             </div>
             <p class="font-sans p-8 text-start md:text-center md:text-lg md:p-4">© 2024 Click Cuisine. All rights

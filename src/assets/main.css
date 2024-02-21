@@ -24,7 +24,7 @@ footer {
     background-color: #FFA500;
     color: white;
     text-align: center;
-    overflow-x: scroll;
+    overflow-x: hidden;
 }
 
 

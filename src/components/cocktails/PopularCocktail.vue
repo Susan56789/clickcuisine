@@ -15,7 +15,7 @@
 import { ref, onMounted } from 'vue';
 import axios from 'axios';
 
-const cocktails = ref(null);
+const cocktails = ref([]);
 
 const options = {
     method: 'GET',
