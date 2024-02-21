@@ -1,3 +1,35 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+/* Footer styles */
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #FFA500;
+    color: white;
+    text-align: center;
+    overflow-x: scroll;
+}
+
+
+@media screen and (max-width: 768px) {
+    footer {
+        position: relative;
+    }
+}
