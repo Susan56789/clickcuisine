@@ -8,7 +8,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/Susan56789/clickcuisine/blob/master/public/assets/images/Logo.png?raw=true" alt="project-screenshot" style="width: 100vw; height: auto;">
+<img src="https://github.com/Susan56789/clickcuisine/blob/master/public/assets/images/Logo.png?raw=true" alt="project-screenshot" style="width: 100vw; height: 400px;">
 
 <h2>🧐 Features</h2>
 
