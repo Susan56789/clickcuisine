@@ -1,12 +1,13 @@
 <template>
-    <Suspense v-if="isComponentLoaded">
-        <PopularCocktail />
-    </Suspense>
+    <div>
+        <BeersPage />
+    </div>
 </template>
 
 <script setup>
 import { ref } from 'vue';
-import PopularCocktail from './cocktails/PopularCocktail.vue';
+
+import BeersPage from './liquars/BeersPage.vue';
 
 const isComponentLoaded = ref(false);
 
