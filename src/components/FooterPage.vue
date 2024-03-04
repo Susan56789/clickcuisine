@@ -70,7 +70,8 @@
                 </div>
 
                 <div class="flex gap-4 hover:cursor-pointer">
-                    <img src="https://www.svgrepo.com/show/303114/facebook-3-logo.svg" width="30" height="30" alt="fb" />
+                    <img src="https://www.svgrepo.com/show/303114/facebook-3-logo.svg" width="30" height="30"
+                        alt="fb" />
                     <img src="https://www.svgrepo.com/show/303115/twitter-3-logo.svg" width="30" height="30" alt="tw" />
                     <img src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" width="30" height="30"
                         alt="inst" />
@@ -83,4 +84,3 @@
         </div>
     </footer>
 </template>
-

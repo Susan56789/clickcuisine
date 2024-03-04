@@ -4,8 +4,6 @@
 
 * {
     box-sizing: border-box;
-    margin: 0;
-    padding: 0;
 }
 
 html {
@@ -14,17 +12,19 @@ html {
 
 body {
     overflow-x: hidden;
+
 }
 
 /* Footer styles */
 footer {
-    position: absolute;
+    position: relative;
     bottom: 0;
     width: 100%;
     background-color: #FFA500;
     color: white;
     text-align: center;
     overflow-x: hidden;
+    margin-top: auto;
 }
 
 
