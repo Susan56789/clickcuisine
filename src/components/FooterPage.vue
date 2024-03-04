@@ -31,7 +31,7 @@
                             class="text-gray-600 transition-colors duration-300
                              dark:text-gray-300 dark:hover:text-orange-400 hover:underline hover:cursor-pointer hover:text-orange-500">
                             Who We Are</a>
-                        <a href="#" class="text-gray-600 transition-colors duration-300 
+                        <a href="/contact" class="text-gray-600 transition-colors duration-300 
                             dark:text-gray-300 dark:hover:text-orange-400 hover:underline 
                             hover:cursor-pointer hover:text-orange-500">
                             Contact Us</a>

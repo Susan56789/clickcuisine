@@ -28,7 +28,7 @@
                                     font-semibold hover:bg-orange-500 hover:text-white transition duration-150 ease-in-out
                                      cursor-pointer focus:outline-none focus:text-white focus:bg-gray-700 ">
                                     Food </a>
-                                <a href="#" class="ml-4 px-3 py-2 rounded-md text-sm leading-5 font-medium text-gray-800 
+                                <a href="/contact" class="ml-4 px-3 py-2 rounded-md text-sm leading-5 font-medium text-gray-800 
                                     font-semibold hover:bg-orange-500 hover:text-white transition duration-150 ease-in-out
                                      cursor-pointer focus:outline-none focus:text-white focus:bg-gray-700 ">
                                     Contact Us
