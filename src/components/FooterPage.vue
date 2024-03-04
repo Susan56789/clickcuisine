@@ -35,6 +35,10 @@
                             dark:text-gray-300 dark:hover:text-orange-400 hover:underline 
                             hover:cursor-pointer hover:text-orange-500">
                             Contact Us</a>
+                        <a href="/faqs"
+                            class="text-gray-600 transition-colors duration-300
+                             dark:text-gray-300 dark:hover:text-orange-400 hover:underline hover:cursor-pointer hover:text-orange-500">
+                            FAQs</a>
                     </div>
                 </div>
 
