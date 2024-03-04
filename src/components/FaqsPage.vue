@@ -1,5 +1,6 @@
 <template>
-    <div class="max-w-screen-xl mx-auto px-5 bg-white min-h-sceen">
+    <div class="max-w-screen-xl mx-auto px-5 bg-white">
+        <BreadCrumbs />
         <div class="flex flex-col items-center">
             <h2 class="font-bold text-5xl mt-5 tracking-tight">
                 FAQ
@@ -166,7 +167,12 @@
 </template>
 
 <script>
+import BreadCrumbs from './BreadCrumbs.vue';
+
 export default {
-    name: 'FaqsPage'
+    name: 'FaqsPage',
+    components: {
+        BreadCrumbs
+    }
 }
 </script>

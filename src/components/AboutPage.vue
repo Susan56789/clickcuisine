@@ -1,6 +1,7 @@
 <template>
     <div>
         <div class="container my-24 mx-auto md:px-6">
+            <BreadCrumbs />
             <article class="relative w-full flex flex-shrink-0 overflow-hidden shadow-2xl">
                 <div class="rounded-full bg-gray-600 text-white absolute top-5 right-5 text-sm px-2 text-center z-10">
                     <span>{{ currentIndex + 1 }}</span>/
@@ -114,8 +115,13 @@
 </template>
 
 <script>
+import BreadCrumbs from './BreadCrumbs.vue';
+
 export default {
     name: 'AboutPage',
+    components: {
+        BreadCrumbs
+    },
     data() {
         return {
             images: [
