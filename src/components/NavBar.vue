@@ -10,12 +10,12 @@
                         </a>
                         <div class="hidden lg:block lg:ml-2">
                             <div class="flex">
-                                <a href="#"
+                                <a href="/"
                                     class="ml-4 px-3 py-2 rounded-md text-sm leading-5
                font-medium text-gray-800 font-semibold hover:bg-orange-500 hover:text-white 
                transition duration-150 ease-in-out cursor-pointer focus:outline-none focus:text-white focus:bg-gray-700 ">
                                     Home </a>
-                                <a href="#" class="ml-4 px-3 py-2 rounded-md text-sm leading-5 font-medium text-gray-800 
+                                <a href="/about" class="ml-4 px-3 py-2 rounded-md text-sm leading-5 font-medium text-gray-800 
                                     font-semibold hover:bg-orange-500 hover:text-white transition duration-150 
                                     ease-in-out cursor-pointer focus:outline-none focus:text-white focus:bg-gray-700 ">
                                     About Us </a>

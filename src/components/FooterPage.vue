@@ -27,7 +27,7 @@
                              dark:hover:text-orange-400 hover:underline hover:cursor-pointer hover:text-orange-500">
                             Home
                         </a>
-                        <a href="#"
+                        <a href="/about"
                             class="text-gray-600 transition-colors duration-300
                              dark:text-gray-300 dark:hover:text-orange-400 hover:underline hover:cursor-pointer hover:text-orange-500">
                             Who We Are</a>
